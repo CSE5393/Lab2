@@ -1,4 +1,4 @@
-# Lab2
+# Lab2: Exploring Text Data
 ## Members
 * Preston Tighe
 * Arturo Laguna
